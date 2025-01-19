@@ -5,7 +5,6 @@ import axios from "axios";
 import { useState } from "react";
 import { FaWhatsapp } from 'react-icons/fa';
 import { TbMailForward } from "react-icons/tb";
-import { toast } from "react-toastify";
 
 function ContactForm() {
   const [error, setError] = useState({ email: false, required: false });

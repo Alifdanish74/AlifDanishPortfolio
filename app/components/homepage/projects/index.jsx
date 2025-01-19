@@ -36,7 +36,7 @@ const Projects = () => {
         <ContainerScroll
           titleComponent={
             <>
-              <h1 className="text-4xl font-semibold text-black dark:text-white">
+              <h1 className="text-2xl font-semibold text-black dark:text-white">
                 Digital Wedding Card Invitation <br />
                 {/* <span className="text-4xl md:text-[6rem] font-bold mt-1 leading-none">
                   Jemputkahwin.com.my
